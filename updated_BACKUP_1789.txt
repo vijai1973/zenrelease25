@@ -1,0 +1,8 @@
+This is the first file
+This is the secon file
+<<<<<<< HEAD
+This is the thrid file updated version as on 25th Jan 2023
+this
+=======
+This is the updated verstion 25th
+>>>>>>> feature-1
